@@ -1,0 +1,46 @@
+Name - Shubham S Darekar
+USC ID - 1641138809
+News Site assigned for crawling - https://www.nytimes.com/
+
+Crawl Report
+1) Number of threads used => 64
+
+2) # fetches attempted => 20000 
+        # fetches succeeded => 19793
+        # fetches failed or aborted => 207
+
+3) Number of rows of fetch_nytimes.csv => 20,000
+
+4) # URLS extracted => 2441390
+        # unique URLs extracted => 1652518
+        # unique URLs within news site => 1548214
+        # unique URLs outside the news site => 104304
+
+
+5) The total number of URLs extracted should be equal to the number of outgoing links 
+encountered on the fetched pages. => True
+
+
+6) Status code statistics =>
+    200 OK => 19793
+    301 Moved Permanently => 161
+    302 Moved Temporarily => 11
+    308: Permanently Redirect => 6
+    400 Bad Request Response => 1
+    403 Access to Resource Forbidden => 1
+    404 Resource Not Found => 27
+
+7) Size Statistics =>
+    < 1KB => 0
+    1KB ~ <10KB => 12
+    10KB ~ <100KB => 848
+    100KB ~ <1MB => 9631
+    >= 1MB => 8960
+
+
+8) File content types statistics =>
+    image/png: 5
+    text/html: 19441
+    image/svg+xml: 5
+
+9) Attached fetch_nytimes.csv and visit_nytimes.csv to submission

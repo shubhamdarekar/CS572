@@ -1,0 +1,13 @@
+Name - Shubham S Darekar
+USC ID - 1641138809
+Search Engine assigned for Comparision - Bing
+Query Set used - Set 1
+
+Observations:
+Comparing the results to the results of Google search, the Bing results are worse than Google results. 
+The correlation statistics are as follows
+Average percent overlap: 17.4 %
+Average Spearman coefficient: -8.09
+
+The overlap is very less, < 2 in 10 on an average, hence the bing results are not that aligned with the results from Google.
+Even the ranking of the results has a huge difference, due to which the Spearman coefficient is also -8.09, which denotes that the correlation between rank is low.

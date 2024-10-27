@@ -1,0 +1,41 @@
+Name: Shubham S Darekar
+USC ID: 1641138809
+News site crawled: https://www.nytimes.com/
+Number of threads: 64
+
+Fetch Statistics
+================
+# fetches total: 20000
+# fetches succeeded: 19793
+# fetches failed or aborted: 207
+
+Outgoing URLs:
+==============
+Total URLs extracted: 2441390
+# unique URLs extracted: 1652518
+# unique URLs within News Site: 1548214
+# unique URLs outside News Site: 104304
+
+Status Codes:
+=============
+200 OK: 19793
+301 Moved Permanently: 161
+302 Moved Temporarily: 11
+308: Permanently Redirect: 6
+400 Bad Request Response: 1
+403 Access to Resource Forbidden: 1
+404 Resource Not Found: 27
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 12
+10KB ~ <100KB: 848
+100KB ~ <1MB: 9631
+>= 1MB: 8960
+
+Content Types:
+==============
+image/png: 5
+text/html: 19441
+image/svg+xml: 5
