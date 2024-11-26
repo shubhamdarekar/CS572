@@ -2,7 +2,7 @@ CSCI 572: Information Retrieval and Web Search Engines Fall 2024
 Dr. Saty Raghavachary, Associate Professor, CS Dept.
 bytes: https://bytes.usc.edu/cs572
 d2l: https://courses.uscden.net/d2l/home/28732
-Piazza: https://piazza.com/usc/fall2024/csci572 or https://piazza.com/class/m0f6u1b51pe70d/ [access code: srch-rocks]
+Piazza: https://piazza.com/usc/fall2024/csci572
 
 Homework links will get published below, ongoing, when it's time for each [till then, the links won't work].
 [HW1](https://bytes.usc.edu/cs572/f24-srch/hw/HW1/index.html) [search engines comparison] - published 9/6, due 9/17 by 11:59PM
