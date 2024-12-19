@@ -1,0 +1,15 @@
+{
+    "class": "Document",
+    "vectorizer": "text2vec-transformers",
+    "properties": [
+      {
+        "name": "title",
+        "dataType": ["string"]
+      },
+      {
+        "name": "content",
+        "dataType": ["string"]
+      }
+    ]
+  }
+  

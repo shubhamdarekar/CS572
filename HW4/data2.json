@@ -1,0 +1,102 @@
+[
+    {
+        "Brand": "Tesla",
+        "Model": "Model S",
+        "Year": 2023
+    },
+    {
+        "Brand": "Ford",
+        "Model": "Mustang",
+        "Year": 2022
+    },
+    {
+        "Brand": "BMW",
+        "Model": "X5",
+        "Year": 2021
+    },
+    {
+        "Brand": "Audi",
+        "Model": "A4",
+        "Year": 2020
+    },
+    {
+        "Brand": "Toyota",
+        "Model": "Camry",
+        "Year": 2021
+    },
+    {
+        "Brand": "Mercedes-Benz",
+        "Model": "S-Class",
+        "Year": 2023
+    },
+    {
+        "Brand": "Chevrolet",
+        "Model": "Corvette",
+        "Year": 2022
+    },
+    {
+        "Brand": "Porsche",
+        "Model": "911",
+        "Year": 2020
+    },
+    {
+        "Brand": "Honda",
+        "Model": "Civic",
+        "Year": 2023
+    },
+    {
+        "Brand": "Nissan",
+        "Model": "Altima",
+        "Year": 2021
+    },
+    {
+        "Brand": "Jaguar",
+        "Model": "F-Type",
+        "Year": 2022
+    },
+    {
+        "Brand": "BMW",
+        "Model": "M3",
+        "Year": 2020
+    },
+    {
+        "Brand": "Audi",
+        "Model": "Q7",
+        "Year": 2023
+    },
+    {
+        "Brand": "Tesla",
+        "Model": "Model 3",
+        "Year": 2022
+    },
+    {
+        "Brand": "Ford",
+        "Model": "F-150",
+        "Year": 2021
+    },
+    {
+        "Brand": "Volkswagen",
+        "Model": "Golf",
+        "Year": 2023
+    },
+    {
+        "Brand": "Hyundai",
+        "Model": "Elantra",
+        "Year": 2022
+    },
+    {
+        "Brand": "Lexus",
+        "Model": "RX",
+        "Year": 2021
+    },
+    {
+        "Brand": "Toyota",
+        "Model": "RAV4",
+        "Year": 2023
+    },
+    {
+        "Brand": "Mazda",
+        "Model": "CX-5",
+        "Year": 2020
+    }
+]
